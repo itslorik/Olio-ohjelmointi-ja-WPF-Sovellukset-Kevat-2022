@@ -1,0 +1,14 @@
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).exe
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).deps.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).runtimeconfig.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).runtimeconfig.dev.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).csproj.AssemblyReference.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).AssemblyInfoInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).AssemblyInfo.cs
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).csproj.CoreCompileInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).genruntimeconfig.cache
