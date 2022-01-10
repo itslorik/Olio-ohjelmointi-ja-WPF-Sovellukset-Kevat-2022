@@ -6,8 +6,8 @@ namespace Harjoitus_1
     {
         static void Main(string[] args)
         {
-            Ajoneuvo auto = new Ajoneuvo();
-            auto.Nimi = "Toyota Corolla";
+            Ajoneuvo auto = new Ajoneuvo(); // Luodaan uusi ajoneuvo
+            auto.Nimi = "Toyota Corolla"; // annetaan ajoneuvolle tiedot
             auto.Nopeus = 420;
             auto.Renkaat = 4;
 
