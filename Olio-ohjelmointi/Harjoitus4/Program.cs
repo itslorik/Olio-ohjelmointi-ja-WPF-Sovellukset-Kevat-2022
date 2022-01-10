@@ -6,7 +6,14 @@ namespace Harjoitus4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Albumi albumi = new Albumi("Emínem","Lorik", "Old School", 5 );
+
+            albumi.LisääKappale(new Kappale("Kappale 1", "06:25"));
+            albumi.LisääKappale(new Kappale("Kappale 2", "02:15"));
+            albumi.LisääKappale(new Kappale("Kappale  3", "03:00"));
+
+            albumi.TulostaKappaleet();
+            albumi.TulostaAlbumi();
         }
     }
 }
