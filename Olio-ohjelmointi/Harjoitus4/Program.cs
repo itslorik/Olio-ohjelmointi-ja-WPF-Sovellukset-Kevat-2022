@@ -12,7 +12,7 @@ namespace Harjoitus4
             albumi.LisääKappale(new Kappale("Kappale 2", "02:15"));
             albumi.LisääKappale(new Kappale("Kappale  3", "03:00"));
 
-            albumi.TulostaKappaleet();
+            
             albumi.TulostaAlbumi();
         }
     }

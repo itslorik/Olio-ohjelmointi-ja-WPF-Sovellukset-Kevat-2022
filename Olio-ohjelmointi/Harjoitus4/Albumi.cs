@@ -36,11 +36,14 @@ namespace Harjoitus4
 
         public void TulostaAlbumi()
         {
-            
+            Console.WriteLine();
             Console.WriteLine("Artisit = " + Artisti);
             Console.WriteLine("Nimi = " + Nimi);
             Console.WriteLine("Genre = " + Genre);
             Console.WriteLine("Hinta = " + hinta);
+            Console.WriteLine("-------------------------");
+
+            TulostaKappaleet();
         }
     }
 }
