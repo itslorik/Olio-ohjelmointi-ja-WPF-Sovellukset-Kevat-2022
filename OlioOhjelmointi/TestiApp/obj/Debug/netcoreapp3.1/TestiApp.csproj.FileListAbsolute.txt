@@ -1,0 +1,14 @@
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\bin\Debug\netcoreapp3.1\TestiApp.exe
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\bin\Debug\netcoreapp3.1\TestiApp.deps.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\bin\Debug\netcoreapp3.1\TestiApp.runtimeconfig.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\bin\Debug\netcoreapp3.1\TestiApp.runtimeconfig.dev.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\bin\Debug\netcoreapp3.1\TestiApp.dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\bin\Debug\netcoreapp3.1\TestiApp.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\obj\Debug\netcoreapp3.1\TestiApp.csproj.AssemblyReference.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\obj\Debug\netcoreapp3.1\TestiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\obj\Debug\netcoreapp3.1\TestiApp.AssemblyInfoInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\obj\Debug\netcoreapp3.1\TestiApp.AssemblyInfo.cs
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\obj\Debug\netcoreapp3.1\TestiApp.csproj.CoreCompileInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\obj\Debug\netcoreapp3.1\TestiApp.dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\obj\Debug\netcoreapp3.1\TestiApp.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\TestiApp\obj\Debug\netcoreapp3.1\TestiApp.genruntimeconfig.cache
