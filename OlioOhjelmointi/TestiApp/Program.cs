@@ -20,6 +20,10 @@ namespace TestiApp
             koira2.rotu = "Mopsi";
 
             koira2.TulostaData();
+
+            // uusi koira Olio, jolle on määritelty nimi, ikä ja rotu luonti vaiheessa konstruktorin avulla
+            Koira koira3 = new Koira("Urho", 5, "Mopsi");
+
         }
     }
 }
