@@ -1,0 +1,14 @@
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\obj\Debug\netcoreapp3.1\Harjoitus8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\obj\Debug\netcoreapp3.1\Harjoitus8.AssemblyInfoInputs.cache
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\obj\Debug\netcoreapp3.1\Harjoitus8.AssemblyInfo.cs
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\obj\Debug\netcoreapp3.1\Harjoitus8.csproj.CoreCompileInputs.cache
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\obj\Debug\netcoreapp3.1\Harjoitus8.csproj.AssemblyReference.cache
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\bin\Debug\netcoreapp3.1\Harjoitus8.exe
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\bin\Debug\netcoreapp3.1\Harjoitus8.deps.json
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\bin\Debug\netcoreapp3.1\Harjoitus8.runtimeconfig.json
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\bin\Debug\netcoreapp3.1\Harjoitus8.runtimeconfig.dev.json
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\bin\Debug\netcoreapp3.1\Harjoitus8.dll
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\bin\Debug\netcoreapp3.1\Harjoitus8.pdb
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\obj\Debug\netcoreapp3.1\Harjoitus8.dll
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\obj\Debug\netcoreapp3.1\Harjoitus8.pdb
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus8\obj\Debug\netcoreapp3.1\Harjoitus8.genruntimeconfig.cache
