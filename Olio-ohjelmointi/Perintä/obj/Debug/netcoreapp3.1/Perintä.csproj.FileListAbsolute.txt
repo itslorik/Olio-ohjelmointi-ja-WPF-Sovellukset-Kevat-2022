@@ -1,0 +1,14 @@
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.exe
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.deps.json
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.runtimeconfig.json
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.runtimeconfig.dev.json
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.dll
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.pdb
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.csproj.AssemblyReference.cache
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.AssemblyInfoInputs.cache
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.AssemblyInfo.cs
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.csproj.CoreCompileInputs.cache
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.dll
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.pdb
+C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.genruntimeconfig.cache
