@@ -6,6 +6,10 @@ namespace Perintä
     {
         static void Main(string[] args)
         {
+
+            Henkilö.KuinkaMontaHenkilöä();
+            Opiskelija.KuinkaMontaOpsikelijaa();
+
             Henkilö henkilö = new Henkilö("Seppo", 20, 6894202); // Henkil olio. Henkil EI ole Opiskelija 
             Opiskelija opiskelija = new Opiskelija("Joel", 18, 2958539, 123456, "Careeria."); // Opsikelija olio. Opiskelija = Henkilö.
             henkilö.TulostaTiedot();
@@ -19,6 +23,8 @@ namespace Perintä
             opiskelija.Opiskele();
             opiskelija.Juo();
             opiskelija.Syö();
+            opiskelija.Opiskele();
+
 
             
         }
