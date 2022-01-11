@@ -10,6 +10,8 @@ namespace Abstraktiivisuus
             opiskelija.Nimi = "Lorik";
 
             opiskelija.Puhu();
+
+            Henkilö.KuinkaMonta();
         }
     }
 }
