@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestiApp", "TestiApp\TestiApp.csproj", "{C1902963-CA73-431A-9872-F7FE88FA9853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestiApp", "TestiApp\TestiApp.csproj", "{C1902963-CA73-431A-9872-F7FE88FA9853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 1Ajoneuvo", "Harjoitus 1Ajoneuvo\Harjoitus 1Ajoneuvo.csproj", "{3A3582F1-3D3F-4A2A-B8C2-1C1C1BE6BAC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 1Ajoneuvo", "Harjoitus 1Ajoneuvo\Harjoitus 1Ajoneuvo.csproj", "{3A3582F1-3D3F-4A2A-B8C2-1C1C1BE6BAC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{94F6D3B3-B85C-4E3C-BF6D-376CCDE68909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{94F6D3B3-B85C-4E3C-BF6D-376CCDE68909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{523233DB-D4A5-4F25-8320-E0AE074BB483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{523233DB-D4A5-4F25-8320-E0AE074BB483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus4", "Harjoitus4\Harjoitus4.csproj", "{24665E6D-F9BB-49DC-94A7-B43D2D89D460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus4", "Harjoitus4\Harjoitus4.csproj", "{24665E6D-F9BB-49DC-94A7-B43D2D89D460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatciEsimerkki", "StatciEsimerkki\StatciEsimerkki.csproj", "{6817DCCC-5AAF-4851-9A37-BDEC08004254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laskin Harjoitus", "Laskin Harjoitus\Laskin Harjoitus.csproj", "{F7A4B59E-8C84-4AEE-8BDB-DAC600FAD467}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{24665E6D-F9BB-49DC-94A7-B43D2D89D460}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24665E6D-F9BB-49DC-94A7-B43D2D89D460}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24665E6D-F9BB-49DC-94A7-B43D2D89D460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6817DCCC-5AAF-4851-9A37-BDEC08004254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6817DCCC-5AAF-4851-9A37-BDEC08004254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6817DCCC-5AAF-4851-9A37-BDEC08004254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6817DCCC-5AAF-4851-9A37-BDEC08004254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A4B59E-8C84-4AEE-8BDB-DAC600FAD467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A4B59E-8C84-4AEE-8BDB-DAC600FAD467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A4B59E-8C84-4AEE-8BDB-DAC600FAD467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A4B59E-8C84-4AEE-8BDB-DAC600FAD467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
