@@ -12,3 +12,17 @@ C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Keva
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.dll
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.pdb
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.genruntimeconfig.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\bin\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.exe
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\bin\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.deps.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\bin\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.runtimeconfig.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\bin\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.runtimeconfig.dev.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\bin\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.dll
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\bin\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.csproj.AssemblyReference.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.AssemblyInfoInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.AssemblyInfo.cs
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.csproj.CoreCompileInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.dll
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus 1Ajoneuvo\obj\Debug\netcoreapp3.1\Harjoitus 1Ajoneuvo.genruntimeconfig.cache

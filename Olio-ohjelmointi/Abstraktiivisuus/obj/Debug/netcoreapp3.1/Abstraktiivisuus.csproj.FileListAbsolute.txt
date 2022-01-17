@@ -12,3 +12,17 @@ C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Keva
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.dll
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.pdb
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.genruntimeconfig.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\bin\Debug\netcoreapp3.1\Abstraktiivisuus.exe
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\bin\Debug\netcoreapp3.1\Abstraktiivisuus.deps.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\bin\Debug\netcoreapp3.1\Abstraktiivisuus.runtimeconfig.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\bin\Debug\netcoreapp3.1\Abstraktiivisuus.runtimeconfig.dev.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\bin\Debug\netcoreapp3.1\Abstraktiivisuus.dll
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\bin\Debug\netcoreapp3.1\Abstraktiivisuus.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.csproj.AssemblyReference.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.AssemblyInfoInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.AssemblyInfo.cs
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.csproj.CoreCompileInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.dll
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Abstraktiivisuus\obj\Debug\netcoreapp3.1\Abstraktiivisuus.genruntimeconfig.cache

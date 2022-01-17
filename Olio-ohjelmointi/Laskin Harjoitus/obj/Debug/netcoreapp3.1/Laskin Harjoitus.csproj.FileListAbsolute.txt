@@ -12,3 +12,17 @@ C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Keva
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.dll
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.pdb
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.genruntimeconfig.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\bin\Debug\netcoreapp3.1\Laskin Harjoitus.exe
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\bin\Debug\netcoreapp3.1\Laskin Harjoitus.deps.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\bin\Debug\netcoreapp3.1\Laskin Harjoitus.runtimeconfig.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\bin\Debug\netcoreapp3.1\Laskin Harjoitus.runtimeconfig.dev.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\bin\Debug\netcoreapp3.1\Laskin Harjoitus.dll
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\bin\Debug\netcoreapp3.1\Laskin Harjoitus.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.csproj.AssemblyReference.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.AssemblyInfoInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.AssemblyInfo.cs
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.dll
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Laskin Harjoitus\obj\Debug\netcoreapp3.1\Laskin Harjoitus.genruntimeconfig.cache

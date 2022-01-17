@@ -11,3 +11,17 @@ C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Keva
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.dll
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.pdb
 C:\Users\Careeria\Documents\Lorikgithub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.genruntimeconfig.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\bin\Debug\netcoreapp3.1\StatciEsimerkki.exe
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\bin\Debug\netcoreapp3.1\StatciEsimerkki.deps.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\bin\Debug\netcoreapp3.1\StatciEsimerkki.runtimeconfig.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\bin\Debug\netcoreapp3.1\StatciEsimerkki.runtimeconfig.dev.json
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\bin\Debug\netcoreapp3.1\StatciEsimerkki.dll
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\bin\Debug\netcoreapp3.1\StatciEsimerkki.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.csproj.AssemblyReference.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.AssemblyInfoInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.AssemblyInfo.cs
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.csproj.CoreCompileInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.dll
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StatciEsimerkki\obj\Debug\netcoreapp3.1\StatciEsimerkki.genruntimeconfig.cache
