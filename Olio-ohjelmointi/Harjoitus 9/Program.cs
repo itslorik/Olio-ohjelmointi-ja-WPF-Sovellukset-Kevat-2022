@@ -11,7 +11,7 @@ namespace Harjoitus_9
 
             while (true)
             {
-                Console.WriteLine("Radio Numero.." + )
+                Console.WriteLine("Radio Numero..");
             }
         }
     }
