@@ -23,7 +23,7 @@ namespace Harjoitus11
                 switch (syöte)
                 {
                     case "lisää":
-                        //Kun käyttäjä antaa syötteeksi lisää, käydään tämä läpi
+                        
                         LisääOpiskelija(opiskelijat);
                         break;
                     case "poista":

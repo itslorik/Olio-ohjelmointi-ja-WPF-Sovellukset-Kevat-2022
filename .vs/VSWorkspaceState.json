@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Olio-ohjelmointi",
+    "\\Olio-ohjelmointi\\Harjoitus13"
   ],
-  "SelectedNode": "\\Olio-ohjelmointi.sln",
+  "SelectedNode": "\\Olio-ohjelmointi\\Harjoitus13\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
