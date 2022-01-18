@@ -1,0 +1,23 @@
+﻿<Window x:Class="Harjoitus17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus17"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="tb_">
+        <Button x:Name="btn_Keittiö" Content="On/Off" HorizontalAlignment="Left" Margin="80,160,0,0" VerticalAlignment="Top" Width="80" Height="55" Click="btn_Keittiö_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="80,144,0,0" TextWrapping="Wrap" Text="Keittiön valot" VerticalAlignment="Top"/>
+        <Button x:Name="btn_Olohuone" Content="On/Off" HorizontalAlignment="Left" Margin="80,60,0,0" VerticalAlignment="Top" Width="80" Height="55" Click="btn_Olohuone_Click"/>
+        <TextBlock x:Name="tb_Kiettiöntila" HorizontalAlignment="Left" Margin="174,174,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tb_OlohuoneTila" HorizontalAlignment="Left" Margin="174,80,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Button x:Name="btn_Ovi" Content="&#xD;&#xA;" HorizontalAlignment="Left" Margin="320,97,0,0" VerticalAlignment="Top" Width="79" Height="118" Click="btn_Keittiö_Copy_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="320,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="79"><Run Text="         "/><Run Text="Ovi"/></TextBlock>
+        <TextBox x:Name="txt_Termostaatti" HorizontalAlignment="Left" Height="23" Margin="80,262,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txt_Termostaatti_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="80,241,0,0" TextWrapping="Wrap" Text="Termostaatti" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tb_lämpötila" HorizontalAlignment="Left" Margin="85,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="80,39,0,0" TextWrapping="Wrap" Text="Olohuone valot" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
