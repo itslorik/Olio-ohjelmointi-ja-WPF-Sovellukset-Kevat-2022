@@ -1,0 +1,15 @@
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\bin\Debug\Harjoitus21.exe.config
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\bin\Debug\Harjoitus21.exe
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\bin\Debug\Harjoitus21.pdb
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21.csproj.AssemblyReference.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\MainWindow.g.cs
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\App.g.cs
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21_MarkupCompile.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21_MarkupCompile.lref
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\MainWindow.baml
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21.g.resources
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21.Properties.Resources.resources
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21.csproj.GenerateResource.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21.csproj.CoreCompileInputs.cache
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21.exe
+C:\Users\Careeria\Source\Repos\itslorik\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Harjoitus21\obj\Debug\Harjoitus21.pdb

@@ -36,6 +36,7 @@ namespace Harjoitus20
             string puhelinnumero = Input_Puhelinnumero.Text;
             string sähköposti = Input_Sähköposti.Text;
             string opiskelijaID = Input_OpiskelijaID.Text;
+
             opiskelijat.Add(new Opiskelija(etunimi, sukunimi, puhelinnumero, sähköposti, opiskelijaID));
             dg_Opiskelijat.ItemsSource = opiskelijat;
 
