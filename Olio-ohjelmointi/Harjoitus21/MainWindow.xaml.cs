@@ -35,9 +35,9 @@ namespace Harjoitus21
 
         private void btn_Poista_Click(object sender, RoutedEventArgs e)
         {
-            listBox1.Items.Clear();
-            listBox1.Items.Remove(listBox1);
-           
+            
+            listBox1.Items.Remove(txt_textBox1.Text);
         }
     }
 }
+ 
