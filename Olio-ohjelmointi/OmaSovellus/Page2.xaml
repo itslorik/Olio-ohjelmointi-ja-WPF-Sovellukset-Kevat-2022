@@ -1,0 +1,22 @@
+﻿<Page x:Class="OmaSovellus.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:OmaSovellus"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page2">
+
+    <Grid Background="#FFA3F3F3">
+        <Image HorizontalAlignment="Left" Height="230" Margin="0,55,0,0" VerticalAlignment="Top" Width="405" Source="Kuvat/leonardo-230237680-DINER_ROMANTIQUE-4_O-976107.jpg"/>
+        <Image HorizontalAlignment="Left" Height="243" Margin="410,45,0,0" VerticalAlignment="Top" Width="380" Source="Kuvat/X9R1530-1-1-e1458805084502-1200x884.jpg"/>
+        <TextBox x:Name="Input_Kentä" HorizontalAlignment="Left" Height="23" Margin="420,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" RenderTransformOrigin="0.778,0.391" FontSize="18" TextChanged="Input_Kentä_TextChanged"/>
+        <TextBox x:Name="Input_Koulu" HorizontalAlignment="Left" Height="23" Margin="65,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" FontSize="18" TextChanged="Input_Koulu_TextChanged"/>
+        <TextBlock x:Name="txt_Seppo" HorizontalAlignment="Left" Margin="10,320,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="120" Width="370" IsEnabled="False"/>
+        <TextBlock x:Name="txt_Pekka" HorizontalAlignment="Left" Margin="420,320,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="120" Width="370" IsEnabled="False"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,15,0,0" TextWrapping="Wrap" Text="Kuinka Vanha Olet?" VerticalAlignment="Top" Height="40" Width="385" FontSize="18"/>
+        <TextBlock HorizontalAlignment="Left" Margin="410,15,-5,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="395" FontSize="18"><Run Text="Kuka on Suomen Presidenti"/><Run Text="?"/></TextBlock>
+
+    </Grid>
+</Page>

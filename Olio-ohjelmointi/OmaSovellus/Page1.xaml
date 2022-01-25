@@ -1,0 +1,16 @@
+﻿<Page x:Class="OmaSovellus.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:OmaSovellus"
+      mc:Ignorable="d"
+      Title="Page1" Height="440" Width="805">
+
+    <Grid Background="#FF1F186A">
+        <Image HorizontalAlignment="Left" Height="215" Margin="10,10,0,0" VerticalAlignment="Top" Width="380" Source="Kuvat/leonardo-230237680-DINER_ROMANTIQUE-4_O-976107.jpg"/>
+        <TextBox x:Name="Input_Kentä" HorizontalAlignment="Left" Height="30" Margin="420,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="18" TextChanged="Input_Kentä_TextChanged"/>
+        <TextBlock x:Name="txt_Nimi" HorizontalAlignment="Left" Margin="20,275,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="165" Width="760" FontSize="24" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="420,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="360" FontSize="22" IsEnabled="False" Foreground="White"><Run Text="Pidätkö Koodaamisesta"/><Run Text="."/><LineBreak/><Run Text="Milloin "/><Run Text=" mene"/><Run Text="t"/><Run Text=" lomalle"/><Run Text="?"/></TextBlock>
+    </Grid>
+</Page>
