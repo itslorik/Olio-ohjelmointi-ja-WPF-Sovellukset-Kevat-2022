@@ -7,48 +7,17 @@ namespace Harjoitus13
     {
         static void Main(string[] args)
         {
-            Joukkue joukkue1 = new Joukkue();
-            Pelaajat pelaajat1 = new Pelaajat();
+            Joukkue Joukkue1 = new Joukkue("ASd", "Helsinki", 10);
 
-            joukkue1.TulostaTiedot();
-            pelaajat1.TulostaData();
+            Joukkue1.TulostaTiedot();
 
-            Console.WriteLine("--------------");
-            Console.WriteLine("HaePelaaja");
-            Console.WriteLine(" LisääPelaaja: ");
-            Console.WriteLine(" PoistaPelaaja: ");
-            Console.WriteLine(" LisääPelaaja: ");
-            Console.WriteLine("1.  LisääPelaaja: ");
+            Pelaajat pelaaja = new Pelaajat();
+
         }
 
+        static void LisääPelaaja()
 
-
-        static void HaePelaaja()
         {
-            Pelaajat uusipelaajat = new Pelaajat();
-            while (true)
-            {
-                Console.WriteLine("Anna uudelle opiskelijalle tiedot: ");
-                Console.WriteLine("Etunimi: ");
-                uusipelaajat.Etunimi = Console.ReadLine();
-                Console.WriteLine("Sukunimi: ");
-                uusipelaajat.Sukunimi = Console.ReadLine();
-                Console.WriteLine("R: ");
-                uusipelaajat.PelaajanNumero = Console.ReadLine();
-                Console.WriteLine("OpiskelijaID");
-                uusiOpiskelija.OpiskelijaNumero = Convert.ToInt32(Console.ReadLine());
-
-                arvoit uudestaan
-                if (opiskelijat.ContainsKey(uusiOpiskelija.OpiskelijaNumero))
-                {
-                    Console.WriteLine("Opiskelija sanakirjassa on opiskelija samalla ID:llä");
-                    continue;
-                }
-                else
-                {
-                    opiskelijat.Add(uusiOpiskelija.OpiskelijaNumero, uusiOpiskelija);
-                    break;
-                }
-            }
         }
     }
+}

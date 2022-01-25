@@ -10,6 +10,13 @@ namespace Harjoitus13
         public string Kotikaupunki;
         public int Pelaajat;
 
+        public Joukkue(string nimi, string kotikaupunki, int pelaajat)
+        {
+            Nimi = nimi;
+            Kotikaupunki = kotikaupunki;
+            Pelaajat = pelaajat;
+        }
+
         public void TulostaTiedot()
         {
             Console.WriteLine("Joukkue Nimi : " +  Nimi + ". Kotikaupunki: " + Kotikaupunki + ". Pelaajat: ");
