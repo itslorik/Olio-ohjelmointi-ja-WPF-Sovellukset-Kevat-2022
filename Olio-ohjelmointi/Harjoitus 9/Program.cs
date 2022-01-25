@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Harjoitus_9
 {
@@ -6,12 +7,14 @@ namespace Harjoitus_9
     {
         static void Main(string[] args)
         {
-            Radio radio = new Radio(0, 9);
-            string syöte;
+            List<Kanava> kanavat = new List<Kanava>();
+            LisääKanavat(kanavat);
+            Radio radio = new Radio();
+            radio.KanavaanYhdistetty(kanavat);
 
-            while (true)
+            static void LisääKanavat(List<Kanava> kanavat)
             {
-                Console.WriteLine("Radio Numero..");
+                kanavat.Add(new Kanava("Yle", 99.2f));
             }
         }
     }

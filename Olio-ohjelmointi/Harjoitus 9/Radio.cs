@@ -6,34 +6,40 @@ namespace Harjoitus_9
 {
     class Radio
     {
-
-        private int minTaajus;
-        private int maxTaajus;
-        private int minÄäni;
-        private int maxÄäni;
-
-        private int nykyinenTaajus;
+        private int äänenvoimakkuus;
+        private float Taajuus;
 
 
-        public Radio(int minTaajus, int maxTaajus)
+
+        public bool kytkin { get; set; }
+
+
+
+        public int Äänenvoimakkuus
         {
-            this.minTaajus = minTaajus;
-            this.maxTaajus = maxTaajus;
-
-            nykyinenTaajus = minTaajus;
-        }
-        public int NykyinenKerros
-        {
-            get => nykyinenTaajus;
+            get { return äänenvoimakkuus; }
             set
             {
-                if (value > maxTaajus || value < minTaajus)
+                if (value > 9)
                 {
-                    Console.WriteLine("Virheellinen Kerros!");
+                    äänenvoimakkuus = 9;
                 }
+                else if (value < 0)
+                { äänenvoimakkuus = 0; }
                 else
                 {
-                    nykyinenTaajus = value;
+                    äänenvoimakkuus = value;
+                }
+            }
+        }
+        public void KanavaanYhdistetty(List<Kanava> kanavat)
+        {
+            foreach (Kanava value in kanavat)
+            {
+                if (value.Taajus > 108)
+                {
+                    Console.WriteLine("Kanava nimi:");
+                    break;
                 }
             }
         }
